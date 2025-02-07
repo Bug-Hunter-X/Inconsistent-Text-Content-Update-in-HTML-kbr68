@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug encountered when manipulating the text content of an HTML element using JavaScript. The bug is characterized by inconsistent behavior across different browsers, where the text update might not always reflect correctly. The solution showcases a more reliable approach using `innerText` or directly manipulating the DOM.
